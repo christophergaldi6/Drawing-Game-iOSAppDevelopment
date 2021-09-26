@@ -1,4 +1,4 @@
-# Drawing-Game README Teamates
+# Drawing-Game README Teammates
 
 Samantha Webster
 Chris Galdi
